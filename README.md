@@ -8,7 +8,7 @@ Creating a simple static website. Below is an image of what you will be creating
 
 ## Blog Page
 
-![Example Blog Page](example_blog.png)
+![Example Blog Page](example_blog_1.png)
 
 ## Rubric
 
