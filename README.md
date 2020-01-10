@@ -1,5 +1,15 @@
 # Lab1 - Getting Started!
 
+Creating a simple static website. Below is an image of what you will be creating.
+
+## Homepage
+
+![Example Homepage](example_homepage.png)
+
+## Blog Page
+
+![Example Blog Page](example_blog.png)
+
 ## Rubric
 
 Git and Github
